@@ -40,5 +40,5 @@ if __name__ == '__main__':
                            args = ('http://www.cs.columbia.edu/CAVE/databases/pubfig/download/eval_urls.txt', 'train'))
 	data_d.start()
 
-	date_d.join()
+	data_d.join()
 	data_e.join()
